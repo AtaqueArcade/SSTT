@@ -1,0 +1,30 @@
+ INFO: web server starting...:9000:4286
+ INFO: connection_status:Data is ready.:4
+ INFO: request:New HTTP petition has arrived.:4
+ INFO: connection_status:Data is ready.:4
+ INFO: request:New HTTP petition has arrived.:4
+ INFO: connection_status:Data is ready.:4
+ INFO: request:New HTTP petition has arrived.:4
+ERROR: 400:Bad Request Errno=0 exiting pid=4289
+ INFO: connection_status:Data expired: TIMEOUT value reached.:4
+ INFO: connection_status:Data is ready.:4
+ INFO: request:New HTTP petition has arrived.:4
+ INFO: connection_status:Data is ready.:4
+ INFO: request:New HTTP petition has arrived.:4
+ INFO: connection_status:Data is ready.:4
+ INFO: request:New HTTP petition has arrived.:4
+ERROR: 400:Bad Request Errno=0 exiting pid=4332
+ INFO: connection_status:Data is ready.:4
+ INFO: request:New HTTP petition has arrived.:4
+ INFO: connection_status:Data is ready.:4
+ INFO: request:New HTTP petition has arrived.:4
+ERROR: 400:Bad Request Errno=0 exiting pid=4333
+ INFO: connection_status:Data is ready.:4
+ INFO: request:New HTTP petition has arrived.:4
+ERROR: 405:Method Not Allowed Errno=0 exiting pid=4334
+ INFO: connection_status:Data is ready.:4
+ INFO: request:New HTTP petition has arrived.:4
+ERROR: 403:Forbidden Errno=0 exiting pid=4336
+ INFO: connection_status:Data is ready.:4
+ INFO: request:New HTTP petition has arrived.:4
+ERROR: Read error:Buffer read went wrong. Errno=0 exiting pid=4331
